@@ -7,6 +7,6 @@
 
 Приложите скриншот.
 
-![Ответ](https://drive.google.com/file/d/1-7OvYxZ1DcyhnwYSJAl27bXNtHJbwzvm/view?usp=sharing)
+![Ответ](https://drive.google.com/file/d/1-7OvYxZ1DcyhnwYSJAl27bXNtHJbwzvm/view?usp=sharing);
 
 
