@@ -7,6 +7,4 @@
 
 Приложите скриншот.
 
-![Ответ](https://drive.google.com/file/d/1-7OvYxZ1DcyhnwYSJAl27bXNtHJbwzvm/view?usp=sharing)
-
-
+![alt text](https://drive.google.com/file/d/1-7OvYxZ1DcyhnwYSJAl27bXNtHJbwzvm/view?usp=sharing)
