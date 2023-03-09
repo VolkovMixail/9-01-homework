@@ -7,4 +7,4 @@
 
 Приложите скриншот.
 
-![](https://drive.google.com/file/d/1-7OvYxZ1DcyhnwYSJAl27bXNtHJbwzvm/view?usp=sharing)
+![](/Users/macuser/9-01-homework/img/13.41.30.png)
