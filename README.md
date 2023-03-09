@@ -7,4 +7,4 @@
 
 Приложите скриншот.
 
-![](/Users/macuser/9-01-homework/img/13.41.30.png)
+![](https://github.com/VolkovMixail/9-01-homework/blob/main/img/%2013.41.30.png)
